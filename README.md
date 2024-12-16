@@ -1,8 +1,14 @@
 # Predictive Modelling for Car Price Estimation
 
+Incase the project file above return an error, you can alternatively access the file by clicking [here](https://nbviewer.org/github/abdulmumeen-abdullahi/Predictive-Modelling-for-Car-Price-Estimation/blob/main/Predictive%20Modelling%20for%20Car%20Price%20Estimation.ipynb).
+
 ## Overview of the Problem <br/>
 The rapid expansion of the automobile industry has created challenges for car dealers and sellers in determining optimal selling prices for pre-owned cars. Key factors such as brand, mileage, fuel type, and transmission significantly impact a car's value. Mispricing can lead to financial losses or hinder sales. <br/>
-This project aims to develop a predictive model to estimate car prices accurately, empowering sellers with actionable insights to maximize revenue opportunities.
+This project aims to develop a predictive model to estimate car prices accurately, empowering sellers with actionable insights to maximize revenue opportunities. This aligns with the United Nations Sustainable Development Goal 9: Industry, Innovation, and Infrastructure, by fostering innovation through data-driven strategies to improve industry decision-making.
+
+
+![image](https://github.com/user-attachments/assets/f36cbbb6-8022-4d91-b45e-259413113b05)
+
 
 ## Data Overview <br/>
 The dataset, sourced from Kaggle, contains the following columns: <br/>
