@@ -47,6 +47,9 @@ o	Decision Tree Regressor
 •	Extracted and visualized the top 7 features using a bar chart. <br/>
 •	Insights: Fuel_Type (Diesel) emerged as the most critical predictor.
 
+![download](https://github.com/user-attachments/assets/3b0c507c-b6c7-4c85-819b-124181920559)
+
+
 ## Results <br/>
 •	Baseline MAE: $3,445.8 <br/>
 **Model Performance**: <br/>
@@ -69,9 +72,8 @@ An interactive web app was created using Dash: <br/>
 •	User-friendly sliders and dropdowns for data entry.
 •	Real-time prediction on clicking "Predict Price".
 
-## Visualization <br/>
-•	Comparative bar charts for MAE across models. <br/>
-•	Feature importance bar chart showcasing top predictors.
+![Predictive Modelling for Car Price Estimation](https://github.com/user-attachments/assets/f3b3ce11-dd6a-4755-a0f0-8a114072395f)
+
 
 ## How the Model Can Help Businesses <br/>
 This car price predictive model empowers businesses to optimize pricing strategies, reduce inventory costs, and enhance customer trust by providing data-driven, accurate price estimates. It helps identify market trends, improve targeted marketing campaigns, and minimize financial risks, giving businesses a competitive edge in the automobile industry. By integrating this type of tool, companies can boost profitability, streamline operations, and position themselves as leaders in innovation and customer satisfaction.
