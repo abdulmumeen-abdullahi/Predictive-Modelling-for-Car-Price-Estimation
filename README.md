@@ -55,6 +55,9 @@ o	Random Forest: $1,632.6 <br/>
 o	Linear Regression: $1,726.7 <br/>
 o	Decision Tree: $1,306.9
 
+![download](https://github.com/user-attachments/assets/e1a3b52d-a215-4771-a3a2-fe5cb0788b97)
+
+
 ## Feature Importance <br/>
 Top predictors include Fuel_Type_Diesel, Selling_type_Individual, and Transmission_Manual. <br/>
 
